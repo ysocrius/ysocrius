@@ -19,7 +19,7 @@ I'm a passionate developer interested in machine learning, web development, and 
 ## 📊 WakaTime Stats
 <!-- WakaTime plugin -->
 <!-- Replace USERNAME with your WakaTime username -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ysocrius)
 
 ## 🚀 Popular Repositories
 - [**FER_using_DeepFace**](https://github.com/ysocrius/FER_using_DeepFace): A project for facial emotion recognition using the DeepFace library.
@@ -30,5 +30,5 @@ I'm a passionate developer interested in machine learning, web development, and 
 - [**maven18**](https://github.com/ysocrius/maven18): A basic Maven project setup.
 
 ## 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yeshwanthcr108)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com) 
