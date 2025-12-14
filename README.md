@@ -1,34 +1,62 @@
 # Hi there 👋, I'm Yeshwanth!
 
-I'm a passionate developer interested in machine learning, web development, and mobile apps. Here's a little bit about my work and what I'm up to.
+I'm a passionate **Full Stack Developer** & **AI Enthusiast** focused on building scalable web & mobile applications. I love exploring bleeding-edge tech like **Next.js 16**, **React 19**, and **GenAI**.
 
 ## 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js_16-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+### AI & ML
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+## 🚀 Featured Projects
+
+### 📱 [BudgetBox (Assignment)](https://github.com/ysocrius/anshu_budget_1)
+*An offline-first personal budgeting PWA tailored for rural connectivity.*
+- **Tech**: Next.js 16 (App Router), React 19, Zustand (Persistence), LocalForage.
+- **Key Features**: Works 100% offline, syncs when online, optimized for low bandwidth (2G/3G).
+
+### 🎧 [Spotify Clone](https://github.com/ysocrius/manish_spotify_clone_1)
+*A robust music streaming service with automated content ingestion.*
+- **Tech**: Node.js, Express, Prisma, Cron Jobs.
+- **Key Features**: Automatically ingests tracks from Jamendo API, background processing.
+
+### 📺 [YouTube Clone](https://github.com/ysocrius/ecp_1)
+*Full-featured video sharing platform.*
+- **Tech**: Next.js 15, Prisma, NextAuth, FFmpeg.
+- **Key Features**: Video transcoding, authentication, comment system.
+
+### 🛍️ [Voice Retail App](https://github.com/ysocrius/voice_retail_1)
+*Voice-activated shopping assistant for mobile.*
+- **Tech**: React Native, Expo, Async Storage.
+- **Key Features**: Hands-free product search and navigation.
+
+### 🤖 [BeyChats LLM](https://github.com/ysocrius/beyChats_LLM_1)
+*Generative AI experiments and RAG implementation.*
+- **Tech**: LangChain, FAISS, OpenAI API.
+- **Key Features**: Retrieval-Augmented Generation context systems.
+
+---
 
 ## 📈 GitHub Stats
 ![Yeshwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysocrius&show_icons=true&theme=tokyonight)
 
 ## 📊 WakaTime Stats
-<!-- WakaTime plugin -->
-<!-- Replace USERNAME with your WakaTime username -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ysocrius)
-
-## 🚀 Popular Repositories
-- [**FER_using_DeepFace**](https://github.com/ysocrius/FER_using_DeepFace): A project for facial emotion recognition using the DeepFace library.
-- [**gansh-1-temple-management-system**](https://github.com/ysocrius/gansh-1-temple-management-system): Website for a temple management system.
-- [**webflix**](https://github.com/ysocrius/webflix): A secure movie server with a Netflix-inspired UI for browsing and downloading content.
-- [**techStaxToDo**](https://github.com/ysocrius/techStaxToDo): A modern and responsive To-Do application built with Flutter and Supabase.
-- [**TTS_Hinglish**](https://github.com/ysocrius/TTS_Hinglish): A project focused on training a Text-to-Speech (TTS) model for Hinglish using Coqui TTS.
-- [**maven18**](https://github.com/ysocrius/maven18): A basic Maven project setup.
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yeshwanthcr108)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com) 
