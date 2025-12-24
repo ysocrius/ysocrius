@@ -112,13 +112,13 @@ I'm a passionate **Full Stack Developer** & **AI Enthusiast** focused on buildin
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysocrius&theme=tokyonight)](https://github.com/ysocrius)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysocrius&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/ysocrius)
+**27+ Public Repositories** • **Active Daily** • **Full Stack AI Development**
+
+🔥 Building production-grade applications with Next.js, FastAPI, and AI integration
 
 </div>
 
