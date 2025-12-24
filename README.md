@@ -113,7 +113,14 @@ I'm a passionate **Full Stack Developer** & **AI Enthusiast** focused on buildin
 ---
 
 ## 📈 GitHub Stats
-![Yeshwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysocrius&show_icons=true&theme=tokyonight)
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ysocrius&theme=tokyonight)](https://github.com/ysocrius)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysocrius&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/ysocrius)
+
+</div>
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yeshwanth108)
