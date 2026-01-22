@@ -3,7 +3,7 @@
 I build **production-grade AI systems** that solve real-world problems, specializing in **Intelligent Document Processing** and **AI Compliance Systems**.
 
 ## 📊 Quick Stats
-- 🎯 **28+ Public Repositories** with live deployments
+- 🎯 **30+ Public Repositories** with live deployments
 - 🚀 **5+ Production AI Systems** serving real users
 - 💻 **Tech Stack:** Python, TypeScript, React, Next.js, FastAPI
 - 🌟 **Specialization:** AI/ML Engineering, Full-Stack Development
@@ -41,6 +41,11 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## 🔭 Currently Working On
+- 🛍️ **Inventory Allocation System** - High-concurrency Node.js & Flutter App
+- 🩻 **X-Ray Semantic Search** - Medical AI with CLIP & Vector Search
+- 🤖 **AI Search Chat with PDF Citations** - RAG + Streaming responses
+
 ## 💡 What I Do Best
 - 🎯 **AI/ML Systems:** Building evaluation frameworks, NLI models, RAG architectures
 - 📄 **Document Intelligence:** PDF to structured data with 95%+ extraction accuracy
@@ -50,7 +55,7 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 
 ## 🚀 Featured Projects
 
-### 🔍 [BRSR Faithfulness Audit](https://github.com/ysocrius/brsr-faithfulness-audit)
+### � [BRSR Faithfulness Audit](https://github.com/ysocrius/brsr-faithfulness-audit)
 *AI compliance system for corporate sustainability reports*
 - **Tech**: Python, GPT-4o, Pydantic V2, NLI Cross-Encoders, RAG
 - **Impact**: 92% agreement with human auditors, automated 40+ hour audits
@@ -68,7 +73,7 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 - **Impact**: 95%+ extraction accuracy, processed 1000+ documents
 - **Highlights**: Real-time streaming, self-improving AI system
 
-### 💰 [Anshu BudgetBox](https://github.com/ysocrius/anshu-budgetbox)
+### � [Anshu BudgetBox](https://github.com/ysocrius/anshu-budgetbox)
 *Offline-first financial PWA with bi-directional sync*
 - **Tech**: Next.js 15, FastAPI, PostgreSQL, IndexedDB
 - **Impact**: Zero-latency UX in low-connectivity areas
@@ -80,7 +85,7 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 - **Features**: Real-time streaming, vector search, queue-based architecture
 - **Highlights**: Page-level citations, animated generative UI
 
-### 🏦 [Django Credit Approval System](https://github.com/ysocrius/django-credit-approval)
+### � [Django Credit Approval System](https://github.com/ysocrius/django-credit-approval)
 *Enterprise backend with async task processing*
 - **Tech**: Django 4.2, PostgreSQL, Celery, Redis, Docker
 - **Features**: Async task queues, Excel data ingestion, Swagger docs
@@ -92,7 +97,7 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 - **Features**: Payment processing, PDF receipts, role-based auth
 - **Highlights**: Live production system serving real users
 
-### 💬 [Insight Engine](https://github.com/ysocrius/insight-engine)
+### � [Insight Engine](https://github.com/ysocrius/insight-engine)
 *Agentic meeting analyzer with autonomous workflows*
 - **Tech**: Flask, OpenAI, Multi-Agent Systems
 - **Features**: Action item extraction, meeting summarization, tool routing
@@ -111,7 +116,7 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 
 ---
 
-## 🎯 Open To
+## � Open To
 - **Data Science Internships/Roles**
 - **AI/ML Engineering Positions**
 - **Full-Stack Development (AI-focused)**
@@ -121,7 +126,7 @@ I build **production-grade AI systems** that solve real-world problems, speciali
 
 <div align="center">
 
-**28+ Public Repositories** • **Active Daily** • **Production AI Systems**
+**30+ Public Repositories** • **Active Daily** • **Production AI Systems**
 
 🔥 Specializing in Document Intelligence, AI Compliance, and LLM Evaluation
 
