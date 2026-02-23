@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Yeshwanth!
+# Hi there 👋, I'm Yeshwanth C R!
 
 I build **production-grade AI systems** that solve real-world problems, specializing in **Intelligent Document Processing** and **AI Compliance Systems**.
 
